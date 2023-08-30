@@ -20,4 +20,4 @@
 
 - cd RST-PRO1
 
-- python AKING.py
+- python RS1.py
